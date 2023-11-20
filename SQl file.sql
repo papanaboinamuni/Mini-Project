@@ -1,0 +1,1 @@
+SELECT * FROM capgemini.capgemini_employee_reviews_from_ambitionbox;
